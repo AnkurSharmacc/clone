@@ -1,2 +1,2 @@
 push
-thi si edited in github
+this is edited in github
